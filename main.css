@@ -1,0 +1,35 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body {
+   text-align: center;
+   background-image: url(./photo/photo1.png)
+}
+form {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+    background-color: rgba(100,100,100,0.4);
+    margin: 225px auto 0 auto;
+    border: 5px solid black;
+    display: inline-block;
+    padding: 50px 20px 75px 20px;
+    color: white;
+}
+
+div {
+    margin: 5px;
+}
+ 
+.label{
+    font-weight: bold;
+}
+#submit {
+    width: 100%;
+}
+h1 {
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
